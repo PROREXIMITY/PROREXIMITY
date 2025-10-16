@@ -37,23 +37,18 @@
 
 ### ⚡ Projects Highlight  
 
-🔹 **[Portfolio Website](https://xyrus-darcen.vercel.app)** – Personal portfolio built with **Next.js** and **Framer Motion**  
-🔹 **[Design Studio Concept](#)** – Creative UI experiment using React & GSAP animations  
-🔹 **[Full-Stack App](#)** – A MERN project showcasing authentication and API integration  
-
-> 🧩 More projects pinned below! Dive in 👇  
+🔹 **[Portfolio Website](https://xyrus-darcen.vercel.app)** – Personal portfolio built with **Next.js**
+ 
 
 ---
 
-### 🧩 Fun Fact  
-> “Code is like art — every line can tell a story if written with intention.”  
 
 ---
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/xyrus-darcen/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:xyrusdarcen27@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://xyrus-darcen.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
