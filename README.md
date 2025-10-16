@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 <h1 align="center">Hi there, I'm <a href="https://xyrus-darcen.vercel.app" target="_blank">Xyrus 👋</a></h1>
-<h3 align="center">🚀 Passionate Frontend Developer | Creative Technologist | Lifelong Learner</h3>
+<h3 align="center">Full-Stack Developer | Creative Technologist | Lifelong Learner</h3>
 
 ---
 
