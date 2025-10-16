@@ -1,14 +1,64 @@
-## Hi, I'm Xyrus! 👋
+![Header](./github-header-banner.png)
 
-# 💫 About Me:
-<br>
+<h1 align="center">Hi there, I'm <a href="https://xyrus-darcen.vercel.app" target="_blank">Xyrus 👋</a></h1>
+<h3 align="center">🚀 Passionate Frontend Developer | Creative Technologist | Lifelong Learner</h3>
 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PROREXIMITY&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PROREXIMITY&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PROREXIMITY&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 💫 About Me  
+💻 I’m a **Frontend Developer** who loves turning ideas into interactive and beautiful web experiences.  
+🎨 Blending creativity and code, I enjoy crafting clean UIs, scalable architectures, and performant web apps.  
+🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment** to level up my full-stack skills.  
+🎮 Outside coding, I’m into **digital design**, **gaming**, and learning how tech powers creativity.  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌐 **Check out my portfolio:** [xyrus-darcen.vercel.app](https://xyrus-darcen.vercel.app)
+
+---
+
+### 🧠 Tech Stack  
+<p align="center">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,bootstrap,mui,tailwind,nodejs,mongodb,firebase,aws,git,github,figma,adobe" />
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PROREXIMITY&show_icons=true&theme=radical&hide_border=true" alt="Xyrus's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PROREXIMITY&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROREXIMITY&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Projects Highlight  
+
+🔹 **[Portfolio Website](https://xyrus-darcen.vercel.app)** – Personal portfolio built with **Next.js** and **Framer Motion**  
+🔹 **[Design Studio Concept](#)** – Creative UI experiment using React & GSAP animations  
+🔹 **[Full-Stack App](#)** – A MERN project showcasing authentication and API integration  
+
+> 🧩 More projects pinned below! Dive in 👇  
+
+---
+
+### 🧩 Fun Fact  
+> “Code is like art — every line can tell a story if written with intention.”  
+
+---
+
+### 🤝 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://xyrus-darcen.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PROREXIMITY&style=flat-square&color=blue" alt="Profile Views" />
+</p>
