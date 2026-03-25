@@ -29,7 +29,7 @@
 🛠️ Tools & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
-  <img src="https://img.icons8.com/color/48/laragon.png" width="48" height="48" alt="laragon" style="vertical-align: top; margin-left: 4px;" />
+  <img src="https://www.svgrepo.com/show/353963/laragon.svg" width="48" height="48" alt="laragon" style="vertical-align: top; margin-left: 4px;" />
 </p>
 
 ---
