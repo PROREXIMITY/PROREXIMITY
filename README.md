@@ -16,9 +16,19 @@
 ---
 
 ### 🧠 Tech Stack  
-<p align="center">
-  <!-- Core Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,php,laravel,html,css,bootstrap,mui,tailwind,nodejs,mongodb,laragon,firebase,aws,git,github,figma,adobe" />
+🌐 Frontend & Design
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,mui,bootstrap,figma,adobe" />
+</p>
+
+⚙️ Backend & Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mongodb,firebase" />
+</p>
+
+🛠️ Tools & Infrastructure
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laragon,git,github,aws,vercel" />
 </p>
 
 ---
