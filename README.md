@@ -29,7 +29,7 @@
 🛠️ Tools & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
-  <img src="https://raw.githubusercontent.com/PROREXIMITY/PROREXIMITY/main/laragon-icon.png" width="48" height="48" alt="laragon" style="vertical-align: top; margin-left: 4px;" onerror="this.src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-laragon-a-free-open-source-universal-development-stack-logo-color-tal-revivo.png'"/>
+  <img src="https://img.icons8.com/color/48/laragon.png" height="48" width="48" style="vertical-align: top; margin-left: 4px;" alt="laragon" />
 </p>
 
 ---
