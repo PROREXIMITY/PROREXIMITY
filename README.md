@@ -29,7 +29,6 @@
 🛠️ Tools & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laragon-Light.svg" width="48" height="48" alt="laragon" style="vertical-align: top; margin-left: 4px;" />
 </p>
 
 ---
