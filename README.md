@@ -21,14 +21,14 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,mui,bootstrap,figma,adobe" />
 </p>
 
-⚙️ Backend & Database
+###⚙️ Backend & Database
 <p align="left">
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mongodb,firebase" />
 </p>
 
 🛠️ Tools & Infrastructure
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laragon,git,github,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=laragon,git,github,aws,vercel" />
 </p>
 
 ---
