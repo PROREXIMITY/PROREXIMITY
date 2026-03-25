@@ -21,14 +21,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,mui,bootstrap,figma,adobe" />
 </p>
 
-###⚙️ Backend & Database
+⚙️ Backend & Database
 <p align="left">
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mongodb,firebase" />
 </p>
 
 🛠️ Tools & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laragon,git,github,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
+  <img src="https://raw.githubusercontent.com/thedevicons/devicon/master/icons/laragon/laragon-original.svg" width="48" height="48" alt="laragon" />
 </p>
 
 ---
@@ -57,7 +58,7 @@
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/xyrus-darcen/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin]" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:xyrusdarcen27@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://xyrus-darcen.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
