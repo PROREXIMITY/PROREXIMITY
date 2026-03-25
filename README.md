@@ -18,7 +18,7 @@
 ### 🧠 Tech Stack  
 <p align="center">
   <!-- Core Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,bootstrap,mui,tailwind,nodejs,mongodb,firebase,aws,git,github,figma,adobe" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,php,laravel,html,css,bootstrap,mui,tailwind,nodejs,mongodb,laragon,firebase,aws,git,github,figma,adobe" />
 </p>
 
 ---
